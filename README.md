@@ -1,7 +1,5 @@
 ## Hi, I'm Abhishek ✨
 
-## Hi, I'm Abhishek ✨
-
 💻 Computer Science student specializing in AI & ML  
 🌐 Web developer skilled in the MERN stack  
 🏨 Built a hotel booking platform inspired by Airbnb  
